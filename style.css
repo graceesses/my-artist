@@ -1,0 +1,83 @@
+body {
+text-align: center;
+}
+
+h1 {
+    color:black;   
+}
+
+p {
+    color:black;
+}
+
+#drake {
+    background-color:#02092b;
+}
+
+#taylor {
+    background-color:pink;
+}
+#taylor:hover {
+    background-color: red;
+}
+#shawn {
+    background-color: grey;
+}
+
+#chain {
+    background-color: white;
+}
+
+#bel {
+    background-color: #2d0e70;
+}
+
+#kanye {
+background-color: brown;
+}
+
+#ri {
+    background-color: #192159;
+}
+
+#ri:hover {
+    background-color: #32396b;
+}
+
+#sia {
+    background-color: #b4b5ba;
+}
+
+#cal {
+    background-color: #075602;
+}
+
+#sel {
+    background-color: orange;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    border
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid white;
+}
+
+
+
+p {
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
